@@ -1,0 +1,16 @@
+{
+  "name": "stock",
+  "author": "Tim Sherburne",
+  "homepage": "http://www.sherb.org/",
+  "private": true,
+  "scripts": {},
+  "main": "stock.js",
+  "dependencies": {
+    "fs-es6-promise": "0.0.3",
+    "lunr": "^0.7.2",
+    "request": "^2.79.0",
+    "request-promise-native": "^1.0.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
